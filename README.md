@@ -7,7 +7,7 @@ This extension allows you to create UIColors based on sRGB values.
 init(sRGB red:Int, green:Int, blue:Int, alpha:CGFloat)
 ```
 
-As you can see the arguments has to be of type: red: Int, green: Int, blue:Int, alpha: CGFloat. The alpha parameter is optional, with a deafult value of 1. See the pantone565c example. 
+As you can see in the examples below, the arguments has to be of type: red: Int, green: Int, blue:Int, alpha: CGFloat. The alpha parameter is optional, with a deafult value of 1. See the pantone565c example. 
 
 ## Usage:  
 ```Swift
